@@ -1,6 +1,6 @@
 # sainath
 
-> my persinal website
+> my personal website
 
 ## Build Setup
 
